@@ -4,6 +4,7 @@ The purpose of this analysis is to help the teams in the National Basketball Ass
 
 Datasets Used:
 • Player Statistics per game (for past 10 seasons) - https://www.kaggle.com/datasets/nathanlauga/nba-games?select=games.csv&fbclid=IwAR1MrVfkb3uzELqRYmHwzEqPJzOqWx93wtzouIgEJaRok_rXWwFBfV645jM
+
 • Player Salary per season - https://github.com/erikgregorywebb/datasets/blob/master/nba-salaries.csv
 
 
